@@ -12,4 +12,4 @@ Skills: SQL | Python | Tableau | MS Excel | Google Sheet | HTML | CSS | Basic ML
 
 
 
-(https://github-readme-stats.vercel.app/api?username=jaiswal-ashutosh)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaiswal-ashutosh)](https://github.com/anuraghazra/github-readme-stats)
