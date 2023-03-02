@@ -2,11 +2,9 @@
 #### I am Data Analyst
 ![I am Data Analyst](https://jaiswal-ashutosh.github.io)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-
-Skills: SQL | Python | Tableau | MS Excel | Google Sheet | HTML | CSS | Basic ML
-
-- 🔭 I’m currently working on this page. 
+👀 I am a Data Analyst
+🌱 I’m currently learning how to use data to make the world a better place.
+📫 How to reach me - jaiswal.ashutoshj@gmail.com
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jaiswal-ashutosh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ashutoshjaiswal-aj/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@ashutosh_jswl)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://jaiswal-ashutosh.github.io/ashutosh.github.io/)  
