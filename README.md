@@ -3,7 +3,9 @@
 ![I am Data Analyst](https://jaiswal-ashutosh.github.io)
 
 👀 I am a Data Analyst
+
 🌱 I’m currently learning how to use data to make the world a better place.
+
 📫 How to reach me - jaiswal.ashutoshj@gmail.com
 
 
