@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Ashutosh
-#### I am Data Analyst
-![I am Data Analyst](https://jaiswal-ashutosh.github.io)
+![I am Data Analyst](https://jaiswal-ashutosh.github.io/ashutosh.github.io/)
 
 👀 I am a Data Analyst
 
