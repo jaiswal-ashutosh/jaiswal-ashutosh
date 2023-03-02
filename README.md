@@ -15,8 +15,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jaiswal-ashutosh&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/jaiswal-ashutosh)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=jaiswal-ashutosh)  
 
 ![Profile views](https://gpvc.arturio.dev/jaiswal-ashutosh)  
