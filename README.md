@@ -4,17 +4,30 @@
 
 🌱 I’m currently learning how to use data to make the world a better place.
 
-📫 How to reach me - jaiswal.ashutoshj@gmail.com
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jaiswal-ashutosh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ashutoshjaiswal-aj/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@ashutosh_jswl)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://jaiswal-ashutosh.github.io/ashutosh.github.io/)  
+### Skills:
 
-<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
+<li>Proficient in SQL</li>
+<li>Strong analytical and problem-solving skills</li>
+<li>Experience with Python and its libraries, including Pandas and NumPy</li>
+<li>Familiarity with data visualization tools like Seaborn and Tableau</li>
+<li>Proficient in Excel</li>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaiswal-ashutosh)](https://github.com/anuraghazra/github-readme-stats)
+### Contact
+<br>
+<ul><b>Gmail<b>: jaiswal.ashutoshj@gmail.com</ul>
+<ul><b>LinkedIn<b>: https://www.linkedin.com/in/ashutoshjaiswal-aj/</ul>
+<ul><b>GitHub<b>: https://github.com/jaiswal-ashutosh</ul>
+  
+  
+ ### Projects
+#### Imdb Web Scrapping
+  <li>Conducted data analysis of top 1000 TV shows using web scraping techniques in Python.</li>
+<li>Extracted relevant information such as title, year, rating, genre, runtime, number of votes, and stars from IMDb website.</li>
+  <li>Utilized Python libraries such as BeautifulSoup, Pandas to accomplish tasks.</li>
+<li>Documented the entire process in a well-structured GitHub repository including a README file and Jupyter Notebook with detailed comments.</li>
+  <br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jaiswal-ashutosh&show_icons=true)  
+Imdb Web Scrapping: https://github.com/jaiswal-ashutosh/portfolio_projects/blob/main/Imdb_Tv_Shows_Web_Scrapping.ipynb
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=jaiswal-ashutosh)  
-
-![Profile views](https://gpvc.arturio.dev/jaiswal-ashutosh)  
