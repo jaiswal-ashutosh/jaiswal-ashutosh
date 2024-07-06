@@ -22,8 +22,8 @@ Welcome to my GitHub profile! I'm passionate about leveraging data analytics to 
 
 - [BI 360](#):
 - [AtliQ Grand](#):
-- [SQL Ad- Hoc Query Requests](#):
-- [AtliQ Excel Report](#)
+- [SQL Ad- Hoc Query Requests](https://github.com/jaiswal-ashutosh/SQL-Project-Consumer-Goods-Ad-Hoc-Analysis):
+- [AtliQ Excel Report](https://github.com/jaiswal-ashutosh/Excel_AtliQ_ReportsProject)
 
 ## Let's Connect!
 
