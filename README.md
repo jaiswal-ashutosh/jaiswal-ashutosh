@@ -16,7 +16,6 @@ Welcome to my GitHub profile! I'm passionate about leveraging data analytics to 
 - ![PowerBI](https://img.shields.io/badge/-PowerBI-yellow)
 - ![MySQL](https://img.shields.io/badge/-MySQL-blue)
 - ![Python](https://img.shields.io/badge/-Python-blue)
-- ![WordPress](https://img.shields.io/badge/-WordPress-blue)
 
 ## Projects
 
