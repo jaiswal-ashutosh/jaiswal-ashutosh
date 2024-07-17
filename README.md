@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm dedicated to using data analytics to help busi
 ## Projects
 
 - [BI 360](#)
-- [AtliQ Grand](#)
+- [AtliQ Grand](https://github.com/jaiswal-ashutosh/AtliQ-Grand-Hospitality-Analysis)
 - [SQL Ad- Hoc Query Requests](https://github.com/jaiswal-ashutosh/SQL-Project-Consumer-Goods-Ad-Hoc-Analysis):
 - [AtliQ Excel Report](https://github.com/jaiswal-ashutosh/Excel_AtliQ_ReportsProject)
 
