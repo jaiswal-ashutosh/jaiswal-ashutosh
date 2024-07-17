@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm dedicated to using data analytics to help busi
 
 ## Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/ashutoshjaiswal-510/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/ashutoshjaiswal-aj/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-green)](http://yourportfolio.com) <!-- Replace with your portfolio link if available -->
 [![Email](https://img.shields.io/badge/-Email-red)](mailto:jaiswal.ashutoshj@gmail.com)
 
