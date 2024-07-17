@@ -1,6 +1,6 @@
 # Hi there, I'm Ashutosh! 👋
 
-Welcome to my GitHub profile! I'm passionate about leveraging data analytics to empower businesses to make informed decisions and drive growth. With a strong foundation in tools like Excel, PowerBI, SQL, and Python, I aim to combine technical expertise with business acumen to deliver impactful solutions.
+Welcome to my GitHub profile! I'm dedicated to using data analytics to help businesses make better decisions and achieve growth. I have a solid background in tools like Excel, Power BI, SQL, and Python. My goal is to blend technical skills with business knowledge to create meaningful solutions.
 
 
 ## About Me
